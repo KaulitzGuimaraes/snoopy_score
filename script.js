@@ -5,7 +5,8 @@ const products = [
     { name: "Chorizo (aka plural de patrão, aka macadâmia ??) ", score: 8.5, country: "fr" },
     { name: "Bala vermelha ", score: 8.0, country: "pol" },
     { name: "Miojo \"Ostry\" ", score: 8.0, country: "pol" },
-    { name: "Chocoate Bruno Mars ", score: 8.7, country: "ger" },
+    { name: "Chocolate Bruno Mars ", score: 8.7, country: "ger" },
+    { name: "Stroopwafel", score: 9.1, country: "net" }
 ];
 
 const countryImages = {
